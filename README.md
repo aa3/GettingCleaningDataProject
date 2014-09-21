@@ -16,5 +16,5 @@ You should create one R script called run_analysis.R that does the following.
 0. The analysis will require loading "data.table" and "reshape" libraries.
 1. Download the data for the project from (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).
 2. Unzip the data ("UCI HAR Dataset" folder) into your working directory. Example "./YourWorkingDirectoryName/UCI HAR Dataset"
-3. Run the scrip from the provided "run_analysis.R" file to produce the "final.txt" file containing a tidy data set with the average of each variable for each activity and each subject.
+3. Run the script from the provided "run_analysis.R" file to produce the "final.txt" file containing a tidy data set with the average of each variable for each activity and each subject.
  
